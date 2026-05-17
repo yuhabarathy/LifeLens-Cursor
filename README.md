@@ -289,3 +289,4 @@ LifeLens Career AI is a working frontend MVP built for a buildathon demo. It dem
 Built by:- Yuhabarathy, Avinash, Hareez
 Team name:- Elder-Ports
 For:- Netlify Deploy Challenge / Buildathon
+URL to visit LifeLens:- https://lifelens-ai-v2.netlify.app/
